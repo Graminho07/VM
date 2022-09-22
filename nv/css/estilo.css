@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(20, 20, 20);
+    padding:10px
+}
+header h1{
+    color: azure;
+}
+.title{
+    padding: 10px;
+    background-color: rgb(20, 20, 20) ;
+    color: azure;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+.container{
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 50px;
+    width: 30%;
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    padding: 10px;
+
+}
+.container input{
+    border: 1px solid rgb(20, 20, 20);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-calculo{
+    margin-bottom: 10px;
+    
+}
+.btn-calculo .btn{
+    margin-left: 10px;
+}
